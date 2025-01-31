@@ -49,7 +49,15 @@ Para ejecutar el proyecto de hilos:
 dotnet run --project ThreadProgram
 ```
 
+Para ejecutar el proyecto Java que trabaja con Hilos:
+```
+javac Main.java
+java Main
+```
+
 Para ejecutar el proyecto de STM:
 ```
 dotnet run --project STMProgram
 ```
+
+
